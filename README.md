@@ -1,10 +1,10 @@
 - [CS 1632 - Software Quality Assurance](#cs-1632---software-quality-assurance)
   * [Description](#description)
   * [Prerequisites](#prerequisites)
-  * [Task 1: Get acquainted with Playwright](#task-1--get-acquainted-with-playwright)
-  * [Task 2: Write test cases](#task-2--write-test-cases)
+  * [Task 1: Get acquainted with Playwright](#task-1-get-acquainted-with-playwright)
+  * [Task 2: Write test cases](#task-2-write-test-cases)
     + [Tips for selecting the best locator string](#tips-for-selecting-the-best-locator-string)
-  * [Task 3: Run test cases](#task-3--run-test-cases)
+  * [Task 3: Run test cases](#task-3-run-test-cases)
 - [Submission](#submission)
 - [GradeScope Feedback](#gradescope-feedback)
 - [Resources](#resources)
@@ -55,8 +55,8 @@ interactions like clicking and typing.
 * [Assertions](https://playwright.dev/docs/test-assertions) - A list of
   assertions available in Playwright through the "expect" API.
 
-* [Locator Assertions](https://playwright.dev/docs/api/class-locatorassertions)
-  - A deeper dive into assertions you can do on locators.
+* [Locator Assertions](https://playwright.dev/docs/api/class-locatorassertions) -
+  A deeper dive into assertions you can do on locators.
 
 ## Task 2: Write test cases
 
