@@ -29,6 +29,14 @@ https://www.pitt.edu/
 
 1. Please install the [Playwright Test for VSCode extension](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright).
 
+1. Please install Playwright after opening the folder in VSCode.  You dan either in VSCode go to View > Command Palette > Test: Install Playwright, or you can execute the following commandline on your shell:
+
+   ```
+   npm init playwright@latest --yes "--" . '--quiet' '--browser=chromium' '--browser=firefox' '--browser=webkit' '--gha'
+   ```
+
+   It will ask to overwrite some files.  Please say yes to all.
+
 ## Task 1: Get acquainted with Playwright
 
 Here are a few links to resources to get you acquainted with Playwright:
